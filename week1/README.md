@@ -1,4 +1,4 @@
-# Week 1 <br> <small>WiDS | Neural Voyage</small>
+# Week 1 <br> <small>WiDS | RL in Trading/small>
 
 This week begins with the basics of Python and its libraries:
 
