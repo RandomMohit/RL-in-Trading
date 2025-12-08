@@ -21,6 +21,8 @@ Throughout this project, you will primarily use Python for coding. While an in-d
 - [W3Schools Python Tutorial](https://www.w3schools.com/python/)
 - [Python Basics Playlist](https://youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm&feature=shared)
 
+  I believe many of you have some background in programming (CS101) and even if you don't chill out and try to make python your first language.
+  You can try coding simple things like sum of an array, sorting arrays, letter frequencies in strings in python. To those who already know some other language try doing the same problems in python.For others, I have added a list of basic coding probelms in the file pythonpractice.py. These are not compulsory.
 ## NumPy Basics
 
 NumPy (Numerical Python) is a fundamental library for linear algebra in Python. It plays a crucial role in AI/ML and data science by enabling efficient mathematical and logical operations on arrays. Explore NumPy through the following resources:
