@@ -55,3 +55,7 @@ These are useful tools that will stay along with us throughout the project and u
 - [Jupyter Notebooks in VS code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 - [github documentation](https://docs.github.com/en/get-started/start-your-journey/hello-world)
 - [github basics video](https://youtu.be/a9u2yZvsqHA?si=Ku59twhQrbyYse9V)
+
+IMPORTANT NOTE : 
+all of this is not at all compulsory and even doable, it is just added in case you need resources. 
+The path you need to follow is first learn python using W3schools or the video whatever suits you then try some practice on python and once go to the file python-tutorial.ipynb then go through one of the numpy tutorials and try its assignment, after that go through matplotlib tutorial and pandas tutorial and try Pandas_and_Matplotlib.ipynb. You don't need to read complete documentations and go through complete playlists. Also, you can use AI tools for searching through syntax but make sure that you don't completely rely on them.
